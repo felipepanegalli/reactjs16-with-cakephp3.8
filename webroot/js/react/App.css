@@ -1,0 +1,12 @@
+* {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container-custom {
+    margin-top: 2rem;
+}
+
+.icon-margin-left {
+    margin-left: 1rem;
+}
